@@ -32,7 +32,9 @@ Sevgiler, Selamlar 😊
 
 
 
-
+<br><br> 
+Profil özetim Can Deger abimiz den esinlenerek oluşturulmuştur. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CanDeger/) 
+<br><br>
 
 
 <br />
