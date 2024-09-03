@@ -33,7 +33,8 @@ Sevgiler, Selamlar 😊
 
 
 <br><br> 
-Profil özetim Can Deger abimiz den esinlenerek oluşturulmuştur. [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CanDeger/) 
+Profil özetim Can Deger abimiz den esinlenerek oluşturulmuştur. Kendisine en iyi yol göstericim olarak çok teşekkür ediyorum. 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@candeger) [![kick](https://img.shields.io/badge/KICK-KICK?style=flat-square&logo=kick&logoColor=%2353FC19&color=%23000000)](https://kick.com/lunizz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/lunizz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/CanDeger) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/CanDeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CanDeger) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@Can.Deger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/LuNiZz) [![DL](https://img.shields.io/badge/LuNiZz-pink?style=flat-square&label=Dijital.Link&labelColor=purple&color=%23000000)](https://dijital.link/lunizz)
 <br><br>
 
 
