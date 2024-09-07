@@ -2,16 +2,16 @@
 [![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/batualkoc?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 <sub>
 <hr>
-1999 model bir Z kuşağı olarak, 2007-08'den beri internette, 2005'lerin başından beri bilgisayarlarla, 2015'lerin başından itibaren de siber güvenlik ile ilgilenmeye başladım 
+As a Gen Z born in 1999, I have been involved with the internet since 2007-08, with computers since the early 2000s, and started focusing on cybersecurity in the early 2010s.
 <br><br> 
-2021-2024 yılları arasında Türk Silahlı Kuvvetleri’nde network ve sistem mühendisi olarak görev aldım. Bu süreçte, askeri ağların güvenliğini sağlamak, performansı optimize etmek ve en kritik sistemlerin kesintisiz çalışmasını sağlamak gibi zorlu ama bir o kadar da keyifli sorumluluklar üstlendim. Cisco ekipmanlarıyla dans eder gibi çalıştım, projeler yönetip ekipleri yönlendirdim ve teknolojinin sürekli değişen dünyasında kendimi güncel tutmak için hep daha fazlasını öğrenmeye çabaladım.
+Between 2021 and 2024, I served as a network and system engineer in the Turkish Armed Forces. During this time, I took on challenging yet rewarding responsibilities, such as ensuring the security of military networks, optimizing performance, and guaranteeing the uninterrupted operation of critical systems. I worked with Cisco equipment as if I were dancing, managed projects, led teams, and continuously strived to learn more to stay up-to-date in the ever-evolving world of technology.
 <br><br>
-Ağ altyapılarının tasarımı, uygulanması ve bakımı konularında 3 yılı aşkın deneyime sahibim ve çeşitli projelerde ekiplerin verimliliğini artırmayı başardım. Teknolojik gelişmeleri yakından takip etmek ve yeni beceriler edinmek benim için bir tutku haline geldi. Kısacası, ağların ve sistemlerin karmaşık dünyasında gezinmeyi ve bu dünyayı daha güvenli hale getirmeyi gerçekten seviyorum!
+I have over 3 years of experience in designing, implementing, and maintaining network infrastructures, and I have successfully enhanced team efficiency across various projects. Keeping up with technological advancements and acquiring new skills has become a passion for me. In short, I truly enjoy navigating the complex world of networks and systems, and making it a safer place!
 <br><br>
-Ayrıca, kripto para dünyasında da aktifim. Kripto borsalarında al-sat veri analizi ve veri görselleştirme alanlarında çalışmalar yaparak, trendleri yakından takip ediyorum ve stratejik kararlar alıyorum. Sürekli olarak kendimi geliştirmeye ve yeni teknolojileri öğrenmeye odaklanıyorum.
+Additionally, I am active in the world of cryptocurrency. I work on buy-sell data analysis and data visualization on crypto exchanges, closely following trends and making strategic decisions. I am continuously focused on improving myself and learning new technologies.
 <br><br>
 <br>
-Sevgiler, Selamlar 😊
+Best regards 😊
 </sub>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/batualkoc) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/exencerz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batualkoc/) 
@@ -33,7 +33,7 @@ Sevgiler, Selamlar 😊
 
 
 <br><br> 
-Profil özetim Can Deger abimiz den esinlenerek oluşturulmuştur. Kendisine en iyi yol göstericim olarak çok teşekkür ediyorum. 
+Profil özetim Can Deger abimiz den esinlenerek oluşturulmuştur. Kendisine en iyi yol gösteri olarak çok teşekkür ediyorum. 
 <br><br> 
 <br><br> 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@candeger) [![kick](https://img.shields.io/badge/KICK-KICK?style=flat-square&logo=kick&logoColor=%2353FC19&color=%23000000)](https://kick.com/lunizz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/lunizz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/CanDeger) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://twitter.com/CanDeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CanDeger) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@Can.Deger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/LuNiZz) [![DL](https://img.shields.io/badge/LuNiZz-pink?style=flat-square&label=Dijital.Link&labelColor=purple&color=%23000000)](https://dijital.link/lunizz)
