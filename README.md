@@ -1,5 +1,4 @@
 ### Cloud Architect | Network and System Engineer | Jr. Software Developer 😊 Batuhan Alkoc
-[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/batualkoc?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 <sub>
 <hr>
 As a Gen Z born in 1999, I have been involved with the internet since 2007-08, with computers since the early 2000s, and started focusing on cybersecurity in the early 2010s.
