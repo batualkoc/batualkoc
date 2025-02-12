@@ -4,7 +4,7 @@
 
 ## 🚀 Hakkımda
 
-1999 doğumlu bir teknoloji tutkunu olarak, erken yaşlardan beri bilişim dünyasının içindeyim. 2000'li yılların başından itibaren bilgisayarlarla olan maceram, 2010'ların başında siber güvenlik alanına olan ilgimle farklı bir boyut kazandı.
+1999 doğumlu bir teknoloji tutkunu olarak, erken yaşlardan beri bilişim dünyasının içindeyim. 2010'li yılların başından itibaren bilgisayarlarla olan maceram, 2020'lerin başında siber güvenlik ve sistem alanına olan ilgimle farklı bir boyut kazandı.
 
 ## 💼 Profesyonel Deneyim
 
