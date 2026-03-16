@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Batuhan Alkoç
 
-> Cloud Architect | System & Network Engineer | Jr. Software Developer | Security Specialist
+> Cloud Architect | Senior Infrastructure & Security Engineer | Automation Architect (n8n & API Integrations) | Jr. Software Developer |
 
 ## 🚀 Hakkımda
 
