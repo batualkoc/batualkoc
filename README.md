@@ -4,17 +4,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/batualkoc/batualkoc/main/dark_mode.svg"
-    >
+      srcset="https://raw.githubusercontent.com/batualkoc/batualkoc/main/dark_mode.svg">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/batualkoc/batualkoc/main/light_mode.svg"
-    >
+      srcset="https://raw.githubusercontent.com/batualkoc/batualkoc/main/light_mode.svg">
     <img
-      alt="Batuhan Alkoç GitHub Profile"
+      alt="batualkoc fastfetch profile"
       src="https://raw.githubusercontent.com/batualkoc/batualkoc/main/dark_mode.svg"
-      width="100%"
-    >
+      width="100%">
   </picture>
 </a>
 
